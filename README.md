@@ -82,6 +82,13 @@ curl -fsSL https://rollinggo.store/install/install.sh | bash -s -- --cli-only
 | `tripskill list` | 列出已安装的技能 | `tripskill list` |
 
 ---
+## Showcase
+![logo](1280X1280.PNG)
+![1280X1280 (1)](1280X1280%20(1).PNG)
+![1280X1280 (2)](1280X1280%20(2).PNG)
+![1280X1280 (3)](1280X1280%20(3).PNG)
+![1280X1280 (3)](66ac5c69-71de-4837-8c65-928d9720d433.png)
+
 
 ## 4. Skill Hub
 
